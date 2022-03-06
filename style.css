@@ -296,6 +296,7 @@ section p {
     }
 
     section h2 {
+        font-family: Roboto;
         font-style: normal;
         font-weight: bold;
         font-size: 12px;
@@ -307,6 +308,7 @@ section p {
     }
     
     section p {
+        font-family: Roboto;
         font-style: normal;
         font-weight: normal;
         font-size: 10px;
@@ -319,43 +321,18 @@ section p {
     
     .one h2 {
         position: absolute;
-        width: 69.9px;
-        height: 18.17px;
-        left: 35px;
-        top: 544px;
-
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 12px;
-        line-height: 130%;
+        left: 35px;   
     }
     
     .two h2 {
         position: absolute;
-        width: 69.9px;
-        height: 18.17px;
         left: 154.16px;
-        top: 544px;
-
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 12px;
-        line-height: 130%;
         }
     
     .three h2 {
         position: absolute;
-        width: 69.9px;
-        height: 18.17px;
         left: 35px;
         top: 615px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 12px;
-        line-height: 130%;
     }
     
     .one p {
@@ -363,13 +340,8 @@ section p {
         width: 86px;
         height: 18px;
         left: 35px;
-        top: 563px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 10px;
-        line-height: 130%;
     }
+      
     
     .two p {
         position: absolute;
@@ -377,11 +349,6 @@ section p {
         height: 18.5px;
         left: 154.33px;
         top: 562.46px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 10px;
-        line-height: 130%;
     }
     
     .three p {
@@ -390,10 +357,5 @@ section p {
         height: 18px;
         left: 35px;
         top: 634px;
-        font-family: Roboto;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 10px;
-        line-height: 130%;
     }
 }
